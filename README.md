@@ -4,9 +4,11 @@
 This repository contains the SQL project for Adventure Works, a fictional bicycle manufacturing company. The project aims to address stock clearance issues through an online auction system and recommends locations for new brick-and-mortar stores.
 
 ## Project Contents
-Project Overview: Project - SQL_2023.pdf details the challenges and goals of the project.
-Our Approach: Report.pdf outlines the strategies and solutions we've implemented.
-SQL Scripts:
+### Project Overview: 
+Project - SQL_2023.pdf details the challenges and goals of the project.
+### Our Approach: 
+Report.pdf outlines the strategies and solutions we've implemented.
+### SQL Scripts:
 StockClearance.sql: Script for managing the stock clearance auction system.
 BrickAndMortarStores.sql: Script for analyzing and recommending store locations.
 
