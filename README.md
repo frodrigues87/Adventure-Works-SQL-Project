@@ -13,14 +13,17 @@ StockClearance.sql: Script for managing the stock clearance auction system.
 <p> BrickAndMortarStores.sql: Script for analyzing and recommending store locations.
 
 ## Reading Path
-Project Overview: Begin with the Project - SQL_2023.pdf to understand the problem statement and project requirements.
-Our Solution: Proceed to Report.pdf for an in-depth analysis and the strategies we implemented to address the challenges.
-Implementation: Examine the StockClearance.sql and BrickAndMortarStores.sql for the actual SQL code that brings our solutions to life.
+### Project Overview: 
+Begin with the Project - SQL_2023.pdf to understand the problem statement and project requirements.
+### Our Solution: 
+Proceed to Report.pdf for an in-depth analysis and the strategies we implemented to address the challenges.
+### Implementation: 
+Examine the StockClearance.sql and BrickAndMortarStores.sql for the actual SQL code that brings our solutions to life.
 
 ## How to Navigate
-The Project - SQL_2023.pdf contains the problem outline and functional specifications for the auction system.
-After understanding the problem, Report.pdf provides our comprehensive report on the solutions and methodologies.
-Finally, review the SQL scripts StockClearance.sql and BrickAndMortarStores.sql for the technical implementation.
+SQL_2023.pdf contains the problem outline and functional specifications for the auction system.
+<p>After understanding the problem, Report.pdf provides our comprehensive report on the solutions and methodologies.</p>
+<p>Finally, review the SQL scripts StockClearance.sql and BrickAndMortarStores.sql for the technical implementation.</p>
 
 ## Features
 Online Auction System: Includes SQL scripts for stored procedures
