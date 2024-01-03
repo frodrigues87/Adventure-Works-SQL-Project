@@ -7,6 +7,7 @@ This repository contains the SQL project for Adventure Works, a fictional bicycl
 ### Documentation: Detailed report and project specifications.
 Documentation/Project guidelines.pdf: The project's problem statement and specifications.
 <p> Documentation/Report.pdf: Our analytical report addressing the project requirements.
+
 ### SQL Code: SQL scripts developed for the project.
 SQL code/StockClearance.sql: Contains the procedures and queries for the stock clearance system.
 <p> SQL code/BrickAndMortarStores.sql: Scripts for analyzing potential new store locations.
