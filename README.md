@@ -30,6 +30,6 @@ Online Auction System: Includes SQL scripts for stored procedures
 <p> Store Location Analysis: Recommendations for new store locations considering existing retail partnerships.
 
 ## Contact Information
--- João Silva - 20222190 - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
+- João Silva - 20222190 - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 - Frederico Rodrigues - 20222159 - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
 
