@@ -4,26 +4,15 @@
 This repository contains the SQL project for Adventure Works, a fictional bicycle manufacturing company. The project aims to address stock clearance issues through an online auction system and recommends locations for new brick-and-mortar stores.
 
 ## Project Contents
-### Project Overview: 
-Project - SQL_2023.pdf details the challenges and goals of the project.
-### Our Approach: 
-Report.pdf outlines the strategies and solutions we've implemented.
-### SQL Scripts:
-StockClearance.sql: Script for managing the stock clearance auction system.
-<p> BrickAndMortarStores.sql: Script for analyzing and recommending store locations.
+### Documentation: Detailed report and project specifications.
+Documentation/Project guidelines.pdf: The project's problem statement and specifications.
+Documentation/Report.pdf: Our analytical report addressing the project requirements.
+### SQL Code: SQL scripts developed for the project.
+SQL code/StockClearance.sql: Contains the procedures and queries for the stock clearance system.
+SQL code/BrickAndMortarStores.sql: Scripts for analyzing potential new store locations.
 
-## Reading Path
-### Project Overview: 
-Begin with the Project - SQL_2023.pdf to understand the problem statement and project requirements.
-### Our Solution: 
-Proceed to Report.pdf for an in-depth analysis and the strategies we implemented to address the challenges.
-### Implementation: 
-Examine the StockClearance.sql and BrickAndMortarStores.sql for the actual SQL code that brings our solutions to life.
-
-## How to Navigate
-SQL_2023.pdf contains the problem outline and functional specifications for the auction system.
-<p>After understanding the problem, Report.pdf provides our comprehensive report on the solutions and methodologies.</p>
-<p>Finally, review the SQL scripts StockClearance.sql and BrickAndMortarStores.sql for the technical implementation.</p>
+## Usage
+For a full understanding of the project, start with the documentation, then proceed to examine the SQL code. The project is laid out to guide you from understanding the problem (Project guidelines.pdf) to our solution (Report.pdf), and finally, the actual implementation (StockClearance.sql and BrickAndMortarStores.sql).
 
 ## Features
 Online Auction System: Includes SQL scripts for stored procedures
