@@ -27,14 +27,9 @@ SQL_2023.pdf contains the problem outline and functional specifications for the 
 
 ## Features
 Online Auction System: Includes SQL scripts for stored procedures
-Store Location Analysis: Recommendations for new store locations considering existing retail partnerships.
-
-## Installation and Usage
-Instructions for setting up and using the SQL scripts in your own environment.
+<p> Store Location Analysis: Recommendations for new store locations considering existing retail partnerships.
 
 ## Contact Information
-- Cláudia Gomes - 20221615 - [LinkedIn](https://www.linkedin.com/in/cláudia-gomes-4b8bbb191/)
-- Filipa Gonçalves - 20222157 - [LinkedIn](https://www.linkedin.com/in/filipa-gonçalves-71970115a/)
+-- João Silva - 20222190 - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 - Frederico Rodrigues - 20222159 - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
-- João Silva - 20222190 - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 
