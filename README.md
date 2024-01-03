@@ -10,7 +10,7 @@ Project - SQL_2023.pdf details the challenges and goals of the project.
 Report.pdf outlines the strategies and solutions we've implemented.
 ### SQL Scripts:
 StockClearance.sql: Script for managing the stock clearance auction system.
-BrickAndMortarStores.sql: Script for analyzing and recommending store locations.
+<p> BrickAndMortarStores.sql: Script for analyzing and recommending store locations.
 
 ## Reading Path
 Project Overview: Begin with the Project - SQL_2023.pdf to understand the problem statement and project requirements.
