@@ -13,7 +13,8 @@ SQL code/StockClearance.sql: Contains the procedures and queries for the stock c
 <p> SQL code/BrickAndMortarStores.sql: Scripts for analyzing potential new store locations.
 
 ## Usage
-For a full understanding of the project, start with the documentation, then proceed to examine the SQL code. The project is laid out to guide you from understanding the problem (Project guidelines.pdf) to our solution (Report.pdf), and finally, the actual implementation (StockClearance.sql and BrickAndMortarStores.sql).
+For a full understanding of the project, start with the documentation, then proceed to examine the SQL code. 
+The project is laid out to guide you from understanding the problem (Project guidelines.pdf) to our solution (Report.pdf), and finally, the actual implementation (StockClearance.sql and BrickAndMortarStores.sql).
 
 ## Features
 Online Auction System: Includes SQL scripts for stored procedures
