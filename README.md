@@ -22,4 +22,4 @@ Online Auction System: Includes SQL scripts for stored procedures
 ## Contact Information
 - João Silva - [LinkedIn](https://www.linkedin.com/in/joao-silva-8625034a/)
 - Frederico Rodrigues - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/)
-
+- Íris Silva - [LinkedIn](https://www.linkedin.com/in/frederico-rodrigues-895897101/](https://www.linkedin.com/in/íris-silva-39045893/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
